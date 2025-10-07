@@ -18,7 +18,7 @@ const rohit = {
     pronouns: "He/Him",
     location: "India 🇮🇳",
     education: "B.Tech Computer Science Engineering @ LPU",
-    currentlyLearning: ["Advanced JavaScript", "Cloud Technologies", "AI/ML"],
+    currentlyLearning: [ "Artificial Intelligence and Machine Learning"],
     interests: ["Web Development", "AI/ML", "Open Source", "Hackathons"],
     funFact: "Won 3 hackathons out of 15+ participated! 🏆"
 };
