@@ -80,17 +80,6 @@ const rohit = {
 
 ---
 
-## 🏅 Achievements & Certifications
-
-🏆 **Hackathon Champion** - Won 3 out of 15+ hackathons participated  
-📜 **MERN Stack with Gen AI Certification** - W3grads (2025)  
-📜 **OCI AI Foundations** - Oracle (2025)  
-💪 **350+ DSA Problems Solved** - Multiple platforms  
-⭐ **1600+ Rating on LeetCode**  
-🎯 **Smart India Hackathon 2025** - MeriCity Project  
-
----
-
 ## 🎯 Current Focus
 
 - 🔭 I'm currently working on **AI-powered web applications**
@@ -109,11 +98,6 @@ const rohit = {
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/-rohit-khandelwal-)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rohit-portfolio-pi-sooty.vercel.app/)
 [![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+918302725007)
-
-**📧 Email:** rohit.khandelwal.2059@gmail.com  
-**📱 Phone:** +91-8302725007  
-**💼 Portfolio:** [rohit-portfolio-pi-sooty.vercel.app](https://rohit-portfolio-pi-sooty.vercel.app/)  
-**💼 LinkedIn:** [linkedin.com/in/-rohit-khandelwal-](https://www.linkedin.com/in/-rohit-khandelwal-)
 
 </div>
 
