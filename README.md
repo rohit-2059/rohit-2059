@@ -73,42 +73,6 @@ const rohit = {
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-### 🏙️ MeriCity - AI Municipal Complaint System
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rohit-2059&repo=mericity&theme=tokyonight)](https://github.com/rohit-2059/mericity)
-
-**Tech Stack:** React.js • Node.js • Express.js • MongoDB • Google Auth  
-🌟 AI-powered civic complaint management system for Smart India Hackathon 2025  
-🌟 Auto-GPS tagging and AI-generated complaint descriptions  
-🌟 Multi-modal input: text, image, and voice support  
-
----
-
-### 🛒 Smart-Cart AI - Intelligent Shopping Assistant
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rohit-2059&repo=smart-cart-ai&theme=tokyonight)](https://github.com/rohit-2059/smart-cart-ai)
-
-**Tech Stack:** React.js • Node.js • Express.js • Tailwind CSS • Gemini API  
-🌟 Natural language shopping cart builder  
-🌟 Reduced checkout time by 70%  
-🌟 Supports groceries, medicines, and general products  
-
----
-
-### 🩺 DermaSense - AI Skin Disease Detection
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rohit-2059&repo=AI-skin-disease-detection&theme=tokyonight)](https://github.com/rohit-2059/AI-skin-disease-detection)
-
-**Tech Stack:** Python • Flask • Deep Learning • HAM10000 Dataset  
-🌟 Early skin disease diagnosis tool  
-🌟 Image-based disease prediction using deep learning  
-🌟 User-friendly web interface for instant results  
-
-</div>
-
----
-
 ## 📈 Contribution Activity
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohit-2059&theme=tokyo-night&bg_color=1a1b27&color=be90f2&line=626880&point=f8d847&area=true&hide_border=true" alt="GitHub Activity Graph" />
