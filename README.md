@@ -6,7 +6,7 @@
 <!-- Typing animation -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=650&height=60&lines=Welcome+to+my+GitHub+Profile!+👋;Full+Stack+Developer+%7C+MERN+Stack;DSA+Enthusiast+%7C+550%2B+Problems+Solved+🧠;AI%2FML+Explorer+%7C+Cloud+Learner;3x+Hackathon+Winner+🏆" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=650&height=60&lines=Welcome+to+my+GitHub+Profile!+👋;Software+Engineer+%7C+Full+Stack+Dev;DSA+Enthusiast+%7C+550%2B+Problems+Solved+🧠;AI%2FML+Explorer+%7C+Cloud+Learner;3x+Hackathon+Winner+🏆" alt="Typing SVG" />
   </a>
 </div>
 
@@ -55,24 +55,19 @@ const rohit = {
     pronouns:     "He / Him",
     location:     "India 🇮🇳",
     education:    "B.Tech CSE @ LPU",
-    role:         "Full Stack Developer",
+    role:         "Software Engineer",
     dsa:          "550+ Problems Solved 🧠",
-    expertise:    ["MERN Stack", "DSA", "AI/ML", "System Design"],
-    learning:     ["Advanced AI/ML", "Cloud Architecture"],
-    interests:    ["Web Dev", "AI/ML", "Hackathons", "CP"],
-    achievements: ["🏆 3x Hackathon Winner (15+ competitions)",
-                   "🧠 550+ DSA Problems Solved"],
-    motto:        "Turn coffee ☕ into code 💻 and bugs into features ✨"
+    expertise:    ["Full Stack Development", "MERN Stack", "DSA"],
+    learning:     ["AI/ML", "DevOps", "Cloud"],
+    interests:    ["Web Development", "AI/ML", "Hackathons", "Competitive Programming"],
+    achievements: [
+                   "🏆 3x Hackathon Winner (15+ competitions)",
+                   "🚀 Built 15+ Projects",
+                   "🧠 550+ DSA Problems Solved"
+                  ],
+    motto:        "Code. Learn. Build. Repeat."
 };
 ```
-
-### ⚡ Quick Facts
-- 🔭 Currently building **AI-powered web applications**
-- 🧠 Solved **550+ DSA problems** on LeetCode / GFG
-- 🌱 Mastering **Advanced AI/ML & Cloud Technologies**
-- 🤝 Open to collaborate on **innovative & impactful tech projects**
-- 💬 Ask me about **MERN Stack · DSA · AI/ML · Competitive Programming**
-- 🏆 **3-time Hackathon Winner** out of 15+ competitions
 
 <br clear="right"/>
 
