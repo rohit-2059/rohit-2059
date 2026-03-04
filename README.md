@@ -1,30 +1,39 @@
 <!-- Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:36BCF7&height=220&section=header&text=Rohit%20Khandelwal&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%2FML%20Enthusiast%20%7C%20Hackathon%20Winner&descAlignY=58&descAlign=50&descSize=18" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:36BCF7&height=220&section=header&text=Rohit%20Khandelwal&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlignY=60&descSize=18&descColor=36BCF7" alt="Header" />
 </div>
 
 <!-- Typing animation -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=600&height=60&lines=Welcome+to+my+GitHub+Profile!+👋;Full+Stack+MERN+Developer+💻;AI%2FML+Enthusiast+🤖;Hackathon+Winner+🏆+%283%2F15%2B%29;Always+Learning%2C+Always+Building+🚀" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=600&height=60&lines=Welcome+to+my+GitHub+Profile!+👋;Full+Stack+Developer+%7C+MERN+Stack;AI%2FML+Enthusiast+%7C+Open+Source;3x+Hackathon+Winner+🏆" alt="Typing SVG" />
   </a>
 </div>
 
-<!-- Social & Profile Badges -->
+<br/>
+
+<!-- Connect With Me -->
 <div align="center">
+  <h2>🤝 Connect With Me</h2>
   <a href="https://www.linkedin.com/in/-rohit-khandelwal-">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  &nbsp;
   <a href="mailto:rohit.khandelwal.2059@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Email-Drop%20a%20Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  &nbsp;
   <a href="https://rohit-portfolio-pi-sooty.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-View%20My%20Work-FF5722?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
-  <a href="https://github.com/rohit-2059">
-    <img src="https://img.shields.io/github/followers/rohit-2059?label=Follow&style=for-the-badge&color=brightgreen&logo=github" alt="GitHub Followers"/>
+  &nbsp;
+  <a href="#">
+    <img src="https://img.shields.io/badge/X%20(Twitter)-Coming%20Soon-000000?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
+  <br/><br/>
   <img src="https://komarev.com/ghpvc/?username=rohit-2059&color=36BCF7&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/rohit-2059?label=Followers&style=for-the-badge&color=brightgreen&logo=github" alt="GitHub Followers"/>
 </div>
 
 <br/>
@@ -113,21 +122,15 @@ const rohit = {
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rohit-2059&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12"/>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rohit-2059&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12&hide_border=false&bg_color=1a1b27&title_color=36BCF7&icon_color=be90f2&text_color=ffffff" alt="Rohit's GitHub Stats"/>
   &nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohit-2059&layout=compact&langs_count=8&theme=tokyonight&border_radius=12"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohit-2059&layout=compact&langs_count=8&theme=tokyonight&border_radius=12&hide_border=false&bg_color=1a1b27&title_color=36BCF7&text_color=ffffff" alt="Top Languages"/>
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohit-2059&theme=tokyonight&border_radius=12&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rohit-2059&theme=tokyonight&no-frame=true&margin-w=8&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohit-2059&theme=tokyonight&border_radius=12&date_format=M%20j%5B%2C%20Y%5D&background=1a1b27&ring=36BCF7&fire=be90f2&currStreakLabel=36BCF7&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888" alt="GitHub Streak" />
 </div>
 
 ---
@@ -135,7 +138,7 @@ const rohit = {
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohit-2059&theme=tokyo-night&bg_color=1a1b27&color=36BCF7&line=be90f2&point=f8d847&area=true&hide_border=true&radius=8" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohit-2059&theme=tokyo-night&bg_color=1a1b27&color=36BCF7&line=be90f2&point=f8d847&area=true&hide_border=true&radius=8" alt="Contribution Graph"/>
 </div>
 
 ---
@@ -164,23 +167,7 @@ const rohit = {
 
 ---
 
-## 📫 Let's Connect & Collaborate!
-
 <div align="center">
-
-<a href="https://www.linkedin.com/in/-rohit-khandelwal-">
-  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-<a href="mailto:rohit.khandelwal.2059@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Drop%20a%20Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://rohit-portfolio-pi-sooty.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-View%20My%20Work-FF5722?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<br/><br/>
 
 ### 🌟 *"Thanks for stopping by — let's build something amazing together!"* 🌟
 
