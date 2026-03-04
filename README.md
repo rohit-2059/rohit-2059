@@ -16,19 +16,19 @@
 <div align="center">
   <h2>🤝 Connect With Me</h2>
   <a href="https://www.linkedin.com/in/-rohit-khandelwal-">
-    <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
   <a href="mailto:rohit.khandelwal.2059@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Drop%20a%20Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   &nbsp;
   <a href="https://rohit-portfolio-pi-sooty.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-View%20My%20Work-FF5722?style=for-the-badge&logo=vercel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   &nbsp;
   <a href="#">
-    <img src="https://img.shields.io/badge/X%20%28Twitter%29-Coming%20Soon-000000?style=for-the-badge&logo=x&logoColor=white"/>
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
   <br/><br/>
   <img src="https://komarev.com/ghpvc/?username=rohit-2059&color=36BCF7&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
