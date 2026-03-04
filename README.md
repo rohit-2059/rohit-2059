@@ -122,6 +122,9 @@ const rohit = {
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor"/>
+  <img src="https://img.shields.io/badge/Lovable-FF4B8B?style=for-the-badge&logo=heart&logoColor=white" alt="Lovable"/>
+  <img src="https://img.shields.io/badge/v0_by_Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="v0"/>
 </div>
 
 ---
@@ -129,13 +132,13 @@ const rohit = {
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rohit-2059&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12&hide_border=false&bg_color=1a1b27&title_color=36BCF7&icon_color=be90f2&text_color=ffffff" alt="Rohit's GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rohit-2059&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12&bg_color=1a1b27&title_color=36BCF7&icon_color=be90f2&text_color=ffffff&hide_border=true" alt="Rohit's GitHub Stats"/>
   &nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohit-2059&layout=compact&langs_count=8&theme=tokyonight&border_radius=12&hide_border=false&bg_color=1a1b27&title_color=36BCF7&text_color=ffffff" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohit-2059&layout=compact&langs_count=8&theme=tokyonight&border_radius=12&bg_color=1a1b27&title_color=36BCF7&text_color=ffffff&hide_border=true" alt="Top Languages"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=rohit-2059&theme=tokyonight&border_radius=12&date_format=M%20j%5B%2C%20Y%5D&background=1a1b27&ring=36BCF7&fire=be90f2&currStreakLabel=36BCF7&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888&stroke=36BCF7" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=rohit-2059&theme=tokyonight&border_radius=12&date_format=M%20j%5B%2C%20Y%5D&background=1a1b27&ring=36BCF7&fire=be90f2&currStreakLabel=36BCF7&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888" alt="GitHub Streak" />
 </div>
 
 ---
