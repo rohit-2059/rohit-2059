@@ -6,7 +6,7 @@
 <!-- Typing animation -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=600&height=60&lines=Welcome+to+my+GitHub+Profile!+👋;Full+Stack+Developer+%7C+MERN+Stack;AI%2FML+Enthusiast+%7C+Open+Source;3x+Hackathon+Winner+🏆" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=650&height=60&lines=Welcome+to+my+GitHub+Profile!+👋;Full+Stack+Developer+%7C+MERN+Stack;DSA+Enthusiast+%7C+550%2B+Problems+Solved+🧠;AI%2FML+Explorer+%7C+Cloud+Learner;3x+Hackathon+Winner+🏆" alt="Typing SVG" />
   </a>
 </div>
 
@@ -20,7 +20,7 @@
   </a>
   &nbsp;
   <a href="mailto:rohit.khandelwal.2059@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Drop%20a%20Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-Drop%20a%20Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   &nbsp;
   <a href="https://rohit-portfolio-pi-sooty.vercel.app/">
@@ -28,7 +28,7 @@
   </a>
   &nbsp;
   <a href="#">
-    <img src="https://img.shields.io/badge/X%20(Twitter)-Coming%20Soon-000000?style=for-the-badge&logo=x&logoColor=white"/>
+    <img src="https://img.shields.io/badge/X%20%28Twitter%29-Coming%20Soon-000000?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
   <br/><br/>
   <img src="https://komarev.com/ghpvc/?username=rohit-2059&color=36BCF7&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
@@ -47,27 +47,31 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" alt="Coding GIF" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" alt="Coding GIF" width="360" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 ```javascript
 const rohit = {
-    name:       "Rohit Khandelwal",
-    pronouns:   "He / Him",
-    location:   "India 🇮🇳",
-    education:  "B.Tech CSE @ LPU",
-    role:       "Full Stack Developer",
-    learning:   ["AI/ML", "Cloud Technologies"],
-    interests:  ["Web Dev", "AI/ML", "Open Source", "Hackathons"],
-    achievements: "🏆 Won 3 out of 15+ Hackathons!",
-    motto:      "Turn coffee ☕ into code 💻 and bugs into features ✨"
+    name:         "Rohit Khandelwal",
+    pronouns:     "He / Him",
+    location:     "India 🇮🇳",
+    education:    "B.Tech CSE @ LPU",
+    role:         "Full Stack Developer",
+    dsa:          "550+ Problems Solved 🧠",
+    expertise:    ["MERN Stack", "DSA", "AI/ML", "System Design"],
+    learning:     ["Advanced AI/ML", "Cloud Architecture"],
+    interests:    ["Web Dev", "AI/ML", "Hackathons", "CP"],
+    achievements: ["🏆 3x Hackathon Winner (15+ competitions)",
+                   "🧠 550+ DSA Problems Solved"],
+    motto:        "Turn coffee ☕ into code 💻 and bugs into features ✨"
 };
 ```
 
 ### ⚡ Quick Facts
-- 🔭 Building **AI-powered web applications**
+- 🔭 Currently building **AI-powered web applications**
+- 🧠 Solved **550+ DSA problems** on LeetCode / GFG
 - 🌱 Mastering **Advanced AI/ML & Cloud Technologies**
-- 👯 Open to collaborate on **innovative tech projects**
-- 💬 Ask me about **MERN Stack · AI/ML · Competitive Programming**
+- 🤝 Open to collaborate on **innovative & impactful tech projects**
+- 💬 Ask me about **MERN Stack · DSA · AI/ML · Competitive Programming**
 - 🏆 **3-time Hackathon Winner** out of 15+ competitions
 
 <br clear="right"/>
@@ -122,15 +126,13 @@ const rohit = {
 ## 📊 GitHub Statistics
 
 <div align="center">
-
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rohit-2059&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12&hide_border=false&bg_color=1a1b27&title_color=36BCF7&icon_color=be90f2&text_color=ffffff" alt="Rohit's GitHub Stats"/>
   &nbsp;&nbsp;
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohit-2059&layout=compact&langs_count=8&theme=tokyonight&border_radius=12&hide_border=false&bg_color=1a1b27&title_color=36BCF7&text_color=ffffff" alt="Top Languages"/>
-
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohit-2059&theme=tokyonight&border_radius=12&date_format=M%20j%5B%2C%20Y%5D&background=1a1b27&ring=36BCF7&fire=be90f2&currStreakLabel=36BCF7&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=rohit-2059&theme=tokyonight&border_radius=12&date_format=M%20j%5B%2C%20Y%5D&background=1a1b27&ring=36BCF7&fire=be90f2&currStreakLabel=36BCF7&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888&stroke=36BCF7" alt="GitHub Streak" />
 </div>
 
 ---
@@ -151,7 +153,7 @@ const rohit = {
 |------|--------|
 | 🤖 Ship an AI/ML SaaS product | 🔄 In Progress |
 | ☁️ Earn a Google Cloud certification | 📚 Learning |
-| 🌍 Contribute to 5+ Open Source projects | 🔄 In Progress |
+| 🧠 Reach 700+ DSA problems solved | 🔄 In Progress |
 | 🏆 Win 2 more Hackathons | 🎯 Targeting |
 | 📦 Publish an npm package | 📋 Planned |
 
