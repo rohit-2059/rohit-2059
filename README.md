@@ -127,17 +127,19 @@ const rohit = {
 
 ---
 
-## 📊 GitHub Statistics
+## 🚀 A Sneak Peek at What I've Built
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rohit-2059&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12&bg_color=1a1b27&title_color=36BCF7&icon_color=be90f2&text_color=ffffff&hide_border=true" alt="Rohit's GitHub Stats"/>
-  &nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohit-2059&layout=compact&langs_count=8&theme=tokyonight&border_radius=12&bg_color=1a1b27&title_color=36BCF7&text_color=ffffff&hide_border=true" alt="Top Languages"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=rohit-2059&theme=tokyonight&border_radius=12&date_format=M%20j%5B%2C%20Y%5D&background=1a1b27&ring=36BCF7&fire=be90f2&currStreakLabel=36BCF7&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888" alt="GitHub Streak" />
-</div>
+- 🏙️ [**MeriCity**](https://github.com/rohit-2059/MeriCity) – Crowdsourced civic issue reporting and community problem resolution platform.
+- 🧬 [**AI Skin Disease Detection**](https://github.com/rohit-2059/AI-Skin-Disease-Detection) – Deep learning system for detecting skin diseases from images.
+- 🚦 [**Smart Traffic Management System**](https://github.com/rohit-2059/Smart-Traffic-Management-System) – Adaptive traffic light system with real-time control and emergency priority.
+- ⚖️ [**Demystify Legal Documents**](https://github.com/rohit-2059/Demystify-Legal-Documents) – AI platform that simplifies legal documents with summaries and explanations.
+- 📅 [**Leave Management System**](https://github.com/rohit-2059/Leave-Management-System) – Employee leave tracking system with role-based dashboards and workflows.
+- 🎤 [**Vaani – Speech to Text**](https://github.com/rohit-2059/Vaani-Speech-to-Text) – Real-time voice transcription and universal captions for accessibility.
+- 🐶 [**Virtual Pet Care System**](https://github.com/rohit-2059/Virtual-Pet-Care-System) – Pet care reminder system for feeding, exercise, and health checkups.
+- 🎙️ [**Voice Based Shopping Assistant**](https://github.com/rohit-2059/Voice-Based-Shopping-Assistant) – Voice-controlled product search across multiple e-commerce platforms.
+- 🛒 [**Smart Cart**](https://github.com/rohit-2059/Smart-Cart) – AI-powered shopping assistant for automated product discovery and smart cart building.
+- ✋ [**Hand Gesture Controller**](https://github.com/rohit-2059/Hand-Gesture-Controller) – Control your PC using real-time hand gesture recognition.
+- 📑 [**Legal Task Management**](https://github.com/rohit-2059/Legal-Task-Management) – Platform guiding users through legal and government procedures step-by-step.
 
 ---
 
