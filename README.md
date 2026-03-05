@@ -3,11 +3,13 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:36BCF7&height=220&section=header&text=Rohit%20Khandelwal&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlignY=60&descSize=18&descColor=36BCF7" alt="Header" />
 </div>
 
-<!-- Typing animation -->
+<!-- Static tagline -->
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=650&height=60&lines=Welcome+to+my+GitHub+Profile!+👋;Software+Engineer+%7C+Full+Stack+Dev;DSA+Enthusiast+%7C+550%2B+Problems+Solved+🧠;AI%2FML+Explorer+%7C+Cloud+Learner;3x+Hackathon+Winner+🏆" alt="Typing SVG" />
-  </a>
+  <p>
+    <samp>
+      👋 Welcome to my GitHub &nbsp;·&nbsp; 💻 Software Engineer &nbsp;·&nbsp; 🧠 550+ DSA Problems &nbsp;·&nbsp; 🏆 3x Hackathon Winner &nbsp;·&nbsp; ☁️ Cloud Learner
+    </samp>
+  </p>
 </div>
 
 <br/>
