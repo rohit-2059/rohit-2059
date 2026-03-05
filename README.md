@@ -1,44 +1,36 @@
 <!-- Header Banner -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:36BCF7&height=220&section=header&text=Rohit%20Khandelwal&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlignY=60&descSize=18&descColor=36BCF7" alt="Header" />
-</div>
-
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:36BCF7&height=220&section=header&text=Rohit%20Khandelwal&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlignY=60&descSize=18&descColor=36BCF7" alt="Header" />
 
 <!-- Connect With Me -->
-<div align="center">
-  <h2>🤝 Connect With Me</h2>
-  <a href="https://www.linkedin.com/in/-rohit-khandelwal-">
+<h2>🤝 Connect With Me</h2>
+<a href="https://www.linkedin.com/in/-rohit-khandelwal-">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="mailto:rohit.khandelwal.2059@gmail.com">
+</a>
+&nbsp;
+<a href="mailto:rohit.khandelwal.2059@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  &nbsp;
-  <a href="https://rohit-portfolio-pi-sooty.vercel.app/">
+</a>
+&nbsp;
+<a href="https://rohit-portfolio-pi-sooty.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-C0622A?style=for-the-badge&logo=internetexplorer&logoColor=white" alt="Portfolio" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/rohit-2059">
+</a>
+&nbsp;
+<a href="https://github.com/rohit-2059">
     <img src="https://img.shields.io/badge/GitHub-rohit--2059-2b3137?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  &nbsp;
-  <a href="#">
+</a>
+&nbsp;
+<a href="#">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-  </a>
-  <br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=rohit-2059&color=36BCF7&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
-  &nbsp;
-  <img src="https://img.shields.io/github/followers/rohit-2059?label=Followers&style=for-the-badge&color=brightgreen&logo=github" alt="GitHub Followers"/>
-</div>
+</a>
+<br/><br/>
+<img src="https://komarev.com/ghpvc/?username=rohit-2059&color=36BCF7&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
+&nbsp;
+<img src="https://img.shields.io/github/followers/rohit-2059?label=Followers&style=for-the-badge&color=brightgreen&logo=github" alt="GitHub Followers"/>
 
 <br/>
 
 <!-- Snake animation -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 ---
 
@@ -71,8 +63,6 @@ const rohit = {
 ---
 
 ## 🛠️ Tech Stack & Skills
-
-<div align="center">
 
 ### 💻 Programming Languages
 
@@ -142,15 +132,11 @@ const rohit = {
 
 ## 📈 Contribution Activity
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohit-2059&theme=tokyo-night&bg_color=1a1b27&color=36BCF7&line=be90f2&point=f8d847&area=true&hide_border=true&radius=8" alt="Contribution Graph" />
-</div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rohit-2059&theme=tokyo-night&bg_color=1a1b27&color=36BCF7&line=be90f2&point=f8d847&area=true&hide_border=true&radius=8" alt="Contribution Graph" />
 
 ---
 
 ## 🔭 Looking Ahead to 2026
-
-<div align="center">
 
 - 🤖 Build an AI/ML SaaS Product
 - ☁️ Earn a Cloud Certification
@@ -158,15 +144,11 @@ const rohit = {
 - 🏆 Win 2 More Hackathons
 - 🚀 Develop 3 Production-Level Projects
 
-</div>
-
 ---
 
 ## 💭 Dev Quote of the Day
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
-</div>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
 
 ---
 
@@ -177,6 +159,4 @@ const rohit = {
 </div>
 
 <!-- Footer Wave -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,50:1a1b27,100:0d1117&height=120&section=footer" alt="Footer Wave" />
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,50:1a1b27,100:0d1117&height=120&section=footer" alt="Footer Wave" />
