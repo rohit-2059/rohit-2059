@@ -156,16 +156,6 @@ const rohit = {
 
 ---
 
-## 💭 Dev Quote of the Day
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
-</div>
-
----
-
-<div align="center">
-
 ### 🌟 *"Thanks for stopping by — let's build something amazing together!"* 🌟
 
 </div>
