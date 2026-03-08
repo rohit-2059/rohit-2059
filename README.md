@@ -125,16 +125,16 @@ const rohit = {
 ## 🚀 A Sneak Peek at What I've Built
 
 - 🏙️ [**MeriCity**](https://github.com/rohit-2059/MeriCity) – Crowdsourced civic issue reporting and community problem resolution platform.
-- 🧬 [**DermaSense Ai**](https://github.com/rohit-2059/AI-Skin-Disease-Detection) – Deep learning system for detecting skin diseases from images.
-- 🚦 [**Smart Traffic Management System**](https://github.com/rohit-2059/Smart-Traffic-Management-System) – Adaptive traffic light system with real-time control and emergency priority.
-- ⚖️ [**Legal AI**](https://github.com/rohit-2059/Demystify-Legal-Documents) – AI platform that simplifies legal documents with summaries and explanations.
-- 📅 [**Absentra**](https://github.com/rohit-2059/Leave-Management-System) – Employee leave tracking system with role-based dashboards and workflows.
-- 🎤 [**Vaani – Speech to Text**](https://github.com/rohit-2059/Vaani-Speech-to-Text) – Real-time voice transcription and universal captions for accessibility.
-- 🐶 [**Virtual Pet Care System**](https://github.com/rohit-2059/Virtual-Pet-Care-System) – Pet care reminder system for feeding, exercise, and health checkups.
-- 🎙️ [**Voice Based Shopping Assistant**](https://github.com/rohit-2059/Voice-Based-Shopping-Assistant) – Voice-controlled product search across multiple e-commerce platforms.
-- 🛒 [**Prompt & Shop**](https://github.com/rohit-2059/Smart-Cart) – AI-powered shopping assistant for automated product discovery and smart cart building.
-- ✋ [**Hand Gesture Controller**](https://github.com/rohit-2059/Hand-Gesture-Controller) – Control your PC using real-time hand gesture recognition.
-- 📑 [**Legal Task Management**](https://github.com/rohit-2059/Legal-Task-Management) – Platform guiding users through legal and government procedures step by step.
+- 🧬 [**DermaSense Ai**](https://github.com/rohit-2059/DermaAi) – Deep learning system for detecting skin diseases from images.
+- 🚦 [**Smart Traffic Management System**](https://github.com/rohit-2059/smart-traffic-management-system) – Adaptive traffic light system with real-time control and emergency priority.
+- ⚖️ [**Legal AI**](https://github.com/rohit-2059/Demstify-legal-documents) – AI platform that simplifies legal documents with summaries and explanations.
+- 📅 [**Absentra**](https://github.com/rohit-2059/Leave-managment-system) – Employee leave tracking system with role-based dashboards and workflows.
+- 🎤 [**Vaani – Speech to Text**](https://github.com/rohit-2059/Vaani) – Real-time voice transcription and universal captions for accessibility.
+- 🐶 [**Virtual Pet Care System**](https://github.com/rohit-2059/PetCare) – Pet care reminder system for feeding, exercise, and health checkups.
+- 🎙️ [**Voice Based Shopping Assistant**](https://github.com/rohit-2059/VOICE-ASSISTANCE) – Voice-controlled product search across multiple e-commerce platforms.
+- 🛒 [**Prompt & Shop**](https://github.com/rohit-2059/Prompt-Shop) – AI-powered shopping assistant for automated product discovery and smart cart building.
+- ✋ [**Hand Gesture Controller**](https://github.com/rohit-2059/Hand-Gesture-Control) – Control your PC using real-time hand gesture recognition.
+- 📑 [**Legal Task Management**](https://github.com/rohit-2059/Legal-documents) – Platform guiding users through legal and government procedures step by step.
 
 ---
 
