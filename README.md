@@ -73,7 +73,7 @@ const rohit = {
 
 ## ⚔️ Competitive Programming (LeetCode)
 
-div align="center">
+<div align="center">
 
 <a href="https://leetcode.com/u/EN11uuIKBm/">
   <img height="170" src="https://leetcard.jacoblin.cool/EN11uuIKBm?theme=dark&font=Karma&ext=contest" alt="LeetCode Stats" />
