@@ -32,7 +32,7 @@
   &nbsp;
   <img src="https://img.shields.io/github/followers/rohit-2059?label=Followers&style=for-the-badge&color=brightgreen&logo=github" alt="GitHub Followers"/>
   &nbsp;
-  <a href="https://leetcode.com/u/rohit-2059/">
+  <a href="https://leetcode.com/u/EN11uuIKBm/">
     <img src="https://img.shields.io/badge/LeetCode-rohit--2059-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
 </div>
@@ -79,7 +79,7 @@ const rohit = {
 <div align="center">
 
 <!-- Main LeetCode stats card -->
-<a href="https://leetcode.com/u/rohit-2059/">
+<a href="https://leetcode.com/u/EN11uuIKBm/">
   <img height="170" src="https://leetcard.jacoblin.cool/rohit-2059?theme=dark&font=Karma&ext=contest" alt="LeetCode Stats" />
 </a>
 
