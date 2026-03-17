@@ -73,21 +73,36 @@ const rohit = {
 
 ## ⚔️ Competitive Programming (LeetCode)
 
+## ⚔️ Competitive Programming (LeetCode)
+
 <div align="center">
 
+<!-- Big Stats Card -->
 <a href="https://leetcode.com/u/EN11uuIKBm/">
-  <img height="170" src="https://leetcard.jacoblin.cool/EN11uuIKBm?theme=dark&font=Karma&ext=contest" alt="LeetCode Stats" />
+  <img width="500" src="https://leetcard.jacoblin.cool/EN11uuIKBm?theme=dark&font=Karma&ext=contest&width=500&height=250" alt="LeetCode Stats" />
 </a>
-
-<br/>
-
-<img src="https://img.shields.io/badge/LeetCode%20Medals-%F0%9F%8F%85%20Gold%20%7C%20%F0%9F%A5%88%20Silver%20%7C%20%F0%9F%A5%89%20Bronze-36BCF7?style=for-the-badge" alt="LeetCode Medals" />
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Daily%20DSA-Consistency%20%F0%9F%94%A5-1a1b27?style=for-the-badge&labelColor=0d1117" alt="Daily DSA" />
+<!-- Side by side: Rating badge + Problems badge -->
+<img src="https://img.shields.io/badge/Contest%20Rating-1556-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+&nbsp;
+<img src="https://img.shields.io/badge/Problems%20Solved-440+-36BCF7?style=for-the-badge&logo=leetcode&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/Top-30.57%25-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white" />
+
+<br/><br/>
+
+<!-- Real Animated Medals from your LeetCode profile -->
+<h3>🏅 My LeetCode Medals</h3>
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=EN11uuIKBm&animated=true&border=no-border&theme=dark" alt="LeetCode Badges" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Daily%20DSA-Consistency%20🔥-1a1b27?style=for-the-badge&labelColor=0d1117" alt="Daily DSA" />
 
 </div>
+
 
 ---
 
