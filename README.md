@@ -32,9 +32,6 @@
   &nbsp;
   <img src="https://img.shields.io/github/followers/rohit-2059?label=Followers&style=for-the-badge&color=brightgreen&logo=github" alt="GitHub Followers"/>
   &nbsp;
-  <a href="https://leetcode.com/u/EN11uuIKBm/">
-    <img src="https://img.shields.io/badge/LeetCode-rohit--2059-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-  </a>
 </div>
 
 <br/>
@@ -76,26 +73,21 @@ const rohit = {
 
 ## ⚔️ Competitive Programming (LeetCode)
 
-<div align="center">
+div align="center">
 
-<!-- Main LeetCode stats card -->
 <a href="https://leetcode.com/u/EN11uuIKBm/">
-  <img height="170" src="https://leetcard.jacoblin.cool/rohit-2059?theme=dark&font=Karma&ext=contest" alt="LeetCode Stats" />
+  <img height="170" src="https://leetcard.jacoblin.cool/EN11uuIKBm?theme=dark&font=Karma&ext=contest" alt="LeetCode Stats" />
 </a>
 
 <br/>
 
-<!-- Medals / Badges (choose what you like; these are visual + engaging) -->
 <img src="https://img.shields.io/badge/LeetCode%20Medals-%F0%9F%8F%85%20Gold%20%7C%20%F0%9F%A5%88%20Silver%20%7C%20%F0%9F%A5%89%20Bronze-36BCF7?style=for-the-badge" alt="LeetCode Medals" />
 
 <br/><br/>
 
-<!-- Topic streak / daily grind vibe -->
 <img src="https://img.shields.io/badge/Daily%20DSA-Consistency%20%F0%9F%94%A5-1a1b27?style=for-the-badge&labelColor=0d1117" alt="Daily DSA" />
 
 </div>
-
-> Want to collab on DSA / System Design / Projects? Ping me — I love building in public.
 
 ---
 
