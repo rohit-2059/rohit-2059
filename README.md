@@ -185,7 +185,7 @@ const rohit = {
 - 🏆 Win 2 More Hackathons
 - 🚀 Develop 3 Production-Level Projects
 
----
+----
 
 ## 📈 Contribution Activity
 
