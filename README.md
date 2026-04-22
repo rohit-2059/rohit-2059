@@ -147,6 +147,8 @@ const rohit = {
 
 ## ⚔️ Competitive Programming (LeetCode)
 
+## ⚔️ Competitive Programming (LeetCode)
+
 <div align="center">
 
 <!-- Big Stats Card -->
@@ -156,12 +158,13 @@ const rohit = {
 
 <br/><br/>
 
-<!-- Side by side: Rating badge + Problems badge -->
-<img src="https://img.shields.io/badge/Contest%20Rating-1556-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+<!-- LEETCODE-STATS:START -->
+<img src="https://img.shields.io/badge/Contest%20Rating-1598-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 &nbsp;
-<img src="https://img.shields.io/badge/Problems%20Solved-440+-36BCF7?style=for-the-badge&logo=leetcode&logoColor=white" />
+<img src="https://img.shields.io/badge/Problems%20Solved-516-36BCF7?style=for-the-badge&logo=leetcode&logoColor=white" />
 &nbsp;
-<img src="https://img.shields.io/badge/Top-30.57%25-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white" />
+<img src="https://img.shields.io/badge/Top-23.82%25-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white" />
+<!-- LEETCODE-STATS:END -->
 
 <br/><br/>
 
