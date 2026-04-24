@@ -147,7 +147,6 @@ const rohit = {
 
 ## ⚔️ Competitive Programming (LeetCode)
 
-## ⚔️ Competitive Programming (LeetCode)
 
 <div align="center">
 
