@@ -162,7 +162,7 @@ const rohit = {
 &nbsp;
 <img src="https://img.shields.io/badge/Problems%20Solved-516-36BCF7?style=for-the-badge&logo=leetcode&logoColor=white" />
 &nbsp;
-<img src="https://img.shields.io/badge/Top-19.76%25-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white" />
+<img src="https://img.shields.io/badge/Top-19.84%25-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white" />
 <!-- LEETCODE-STATS:END -->
 
 <br/><br/>
